@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seoyeon's%20github&fontSize=80&animation=fadeIn" /></a>
 
-# <h3 align="center">`🔔My`</h3>
+# <h3 align="center">`🔔 My`</h3>
 ---
 
 <div align="center">
@@ -13,7 +13,7 @@
 <br><br><br>
 
 
-# <h3 align="center">`📌My blog`</h3>
+# <h3 align="center">`📌 My blog`</h3>
  ---
 <div align="center">
  <a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/tistory-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/" width="60" hegiht="60"/></a>
@@ -22,7 +22,7 @@
 
 <br><br><br>
 
-# <h3 align="center">`✅My Status`</h3>
+# <h3 align="center">`✅ My Status`</h3>
  ---
  <div align="center">
  
