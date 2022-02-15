@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seoyeon's%20github&fontSize=80&animation=fadeIn" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
