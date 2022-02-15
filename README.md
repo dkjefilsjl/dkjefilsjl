@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
-<br><br><br><br><br>
+<br><br><br>
 
 
 # <h3 align="center">`📌My blog`</h3>
@@ -19,7 +19,7 @@
 <a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/myblog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/"/></a>
 </div>
 
-<br><br><br><br><br>
+<br><br><br>
 
 # <h3 align="center">`✅My Status`</h3>
  ---
