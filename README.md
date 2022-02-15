@@ -16,7 +16,8 @@
 # <h3 align="center">`📌My blog`</h3>
  ---
 <div align="center">
-<a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/myblog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/"/></a>
+<a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/tistory_blog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/"/></a>
+ <a href="https://blog.naver.com/6792kjs/"><img src="https://img.shields.io/badge/naver_blog-success?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://blog.naver.com/6792kjs/"/></a>
 </div>
 
 <br><br><br>
