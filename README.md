@@ -21,9 +21,8 @@
 
 <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkjefilsjl&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkjefilsjl&show_icons=true&theme=radical) <!--![my](https://user-images.githubusercontent.com/46805289/154010017-fdce6281-26a4-493a-8a97-c29c30364cea.JPG)
 
-<!--
 **dkjefilsjl/dkjefilsjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
