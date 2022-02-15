@@ -1,7 +1,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seoyeon's%20github&fontSize=80&animation=fadeIn" />
 
                                                     🔔My 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/42seoul-orange?style=flat-square&logo=42&logoColor=black"/> <img src="https://img.shields.io/badge/Android-blueviolet?style=flat-square&logo=Android&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/42seoul-orange?style=flat-square&logo=42&logoColor=black"/> <img src="https://img.shields.io/badge/Android-blueviolet?style=flat-square&logo=Android&logoColor=white"/>
 
 
                                                   📌My blog
