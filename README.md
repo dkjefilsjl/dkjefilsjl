@@ -1,9 +1,12 @@
-### 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seoyeon's%20github&fontSize=80&animation=fadeIn" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/42seoul-orange?style=flat-square&logo=42&logoColor=black"/>
-<img src="https://img.shields.io/badge/Android-blueviolet?style=flat-square&logo=Android&logoColor=black"/>
-<a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/myblog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=seoyeon's%20github&fontSize=80&animation=fadeIn" />
+
+                                                    🔔My 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/42seoul-orange?style=flat-square&logo=42&logoColor=black"/> <img src="https://img.shields.io/badge/Android-blueviolet?style=flat-square&logo=Android&logoColor=black"/>
+
+
+                                                  📌My blog
+
+<a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/myblog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/"/></a>
 
 <!--
 **dkjefilsjl/dkjefilsjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
