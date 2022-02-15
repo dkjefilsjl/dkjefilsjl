@@ -19,7 +19,9 @@
 <a href="https://seoyeonis.tistory.com/"><img src="https://img.shields.io/badge/myblog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://seoyeonis.tistory.com/"/></a>
 </div>
 
-<br><br><br>
+<br><br><br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkjefilsjl&show_icons=true&theme=radical)
+# <h3 align="center">`✅My Status`</h3>
+ ---
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkjefilsjl&show_icons=true&theme=radical)
  [![seoyepar's 42 stats](https://badge42.herokuapp.com/api/stats/seoyepar?privacyName=true)](https://github.com/JaeSeoKim/badge42)
