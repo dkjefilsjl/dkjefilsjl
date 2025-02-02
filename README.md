@@ -13,15 +13,6 @@
 <br><br><br>
 
 
-# <h3 align="center">`📌 My blog`</h3>
- ---
-<div align="center">
- <a href="https://velog.io/@6792kjs"><img src="https://img.shields.io/badge/velog-ff69b4?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://velog.io/@6792kjs" width="60" hegiht="60"/></a>
- <a href="https://blog.naver.com/6792kjs/"><img src="https://img.shields.io/badge/naver-success?style=plastic&logo=appveyor&logo=Blogger&logoColor=red&link=https://blog.naver.com/6792kjs/" width="55" hegiht="55"/></a>
-</div>
-
-<br><br><br>
-
 # <h3 align="center">`✅ My Status`</h3>
  ---
  <div align="center">
